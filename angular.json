@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CryptoNew"
+    }
+  },
+  "defaultProject": "CryptoNew",
+  "cli": {
+    "analytics": false
+  }
 }
